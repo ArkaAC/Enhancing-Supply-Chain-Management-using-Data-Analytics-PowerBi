@@ -34,6 +34,4 @@ they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, 
 OnTime in full (OTIF) %’ of the customer orders daily basis against the
 target service level set for each customer.
 
-# The main objective of this project is to create a dashboard to visualize the
-# supply chain of AtliQ using PowerBi and provide insights using data
-# analytics.
+# The main objective of this project is to create a dashboard to visualize the supply chain of AtliQ using PowerBi and provide insights using data analytics.
