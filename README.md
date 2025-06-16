@@ -1,8 +1,6 @@
 # Enhancing-Supply-Chain-Management-using-Data-Analytics-PowerBi
-# This transformative project aims to improve supply management practices by
-# leveraging the synergy of data analytics and Power BI. 
-In a rapidly evolving
-business environment characterized by complex supply chain dynamics and
+# This transformative project aims to improve supply management practices by leveraging the synergy of data analytics and Power BI. 
+In a rapidly evolving business environment characterized by complex supply chain dynamics and
 increased market uncertainty, the project seeks to address long-term
 challenges within traditional supply management methods. Leveraging the
 power of data analytics, the goal is to extract valuable insights from disparate
